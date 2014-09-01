@@ -1,3 +1,12 @@
+// ==UserScript==
+// @name        vk_cmd_num_hotkey_disable
+// @namespace   my
+// @include     https://vk.com/*
+// @include     http://vk.com/*
+// @version     1
+// @grant       none
+// ==/UserScript==
+
 function disable_meta_all() {
 	function disable_meta(e) {
 		// cmd + <number> hotkeys disable
