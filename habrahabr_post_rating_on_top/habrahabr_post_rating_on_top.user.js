@@ -3,6 +3,8 @@
 // @namespace   habrahabr
 // @include     http://habrahabr.ru/post/*
 // @include     http://habrahabr.ru/company/*/blog/*/
+// @include     http://geektimes.ru/post/*
+// @include     http://geektimes.ru/company/*/blog/*/
 // @version     1
 // @grant       none
 // ==/UserScript==
